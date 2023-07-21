@@ -5,5 +5,6 @@
 
 
 mcu: stm32f407vet6
-resources: spi1 can1
+
+resources: spi1和can1
 
